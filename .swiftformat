@@ -1,0 +1,26 @@
+# format options
+
+--binarygrouping none
+--commas inline
+
+--decimalgrouping none
+--octalgrouping none
+--hexgrouping none
+
+--elseposition next-line
+--guardelse same-line
+
+--exponentcase lowercase
+--header ignore
+--indent 4
+
+--selfrequired
+--stripunusedargs closure-only
+--trailingclosures
+--wraparguments before-first
+--wrapcollections before-first
+--disable redundantReturn, wrapMultilineStatementBraces
+
+--enable isEmpty, markTypes, wrapConditionalBodies, wrapEnumCases, organizeDeclarations, sortSwitchCases
+--beforemarks
+--acronyms
